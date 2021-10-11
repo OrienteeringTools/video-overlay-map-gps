@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>Tomáš Udržal: OOCup 2016 E2 (28.07.2016)</name>
+    <Folder>
+      <GroundOverlay>
+        <Icon>
+          <href>map2.jpg</href>
+        </Icon>
+        <LatLonBox>
+          <north>46.488807536015</north>
+          <south>46.470638314983</south>
+          <east>13.675730135032</east>
+          <west>13.655645185975</west>
+          <rotation>0.43996610088357</rotation>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>
